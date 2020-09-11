@@ -3,6 +3,7 @@ Testing is IMPORTANT! This project takes you through various kinds of software d
 
 <h2>Smoke testing</h2>
 "Smoke test" is a term that comes from electrical engineering. It refers to a very basic, very simple test, where you just plug the device in and see if smoke comes out. <br>
+
 It doesn't tell you anything about whether or not the device actually works. The only thing it tells you is that it is not compleatly broken. <br>
 
 It is usually used as a time-saving step before the more thorough reegression/integration/acceptence tests, since there is no point in running the full testsuite, if the thing chatches fire anyway. <br>
